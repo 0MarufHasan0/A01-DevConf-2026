@@ -92,3 +92,61 @@ header{
 }
 
 /* header end  */
+
+/* Main  */
+
+.section-title {
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-bottom: 65px;
+}
+
+
+.speaker-card{
+    display : grid ;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.speaker-content{
+    background-color: #FFFFFF;
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+   
+    
+}
+
+.speaker-content:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0,0,0,.15);
+}
+
+.speaker-content img{
+    border-radius: 10px;
+   
+    
+}
+.speaker-info {
+    line-height: 1.5;
+    padding-left : 10px;
+}
+
+.speaker-info h6 {
+    color : #2563EB;
+}
+
+.speaker-info h3 {
+    color : #0D1B2A;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.speaker-info p {
+    color : #575757;
+    font-size : 0.8rem;
+}
