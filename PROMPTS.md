@@ -6,7 +6,7 @@
 - ChatGPT (GPT-5.5)
 
 ## Purpose
-Generate a completely original replacement for the **"Something Missing? Generate a relevant section with AI"** placeholder on the DevConf 2026 landing page.
+Generate a completely original replacement for the **"Something Missing? Generate a relevant section with AI"** placeholder on the DevConf 2026 Section.
 
 ## Prompt
 
