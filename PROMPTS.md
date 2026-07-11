@@ -1,6 +1,6 @@
 # 🎨 PLACEHOLDER SECTION — AI CHALLENGE PROMPT
 
-Y# DevConf 2026 — AI Prompt
+# DevConf 2026 — AI Prompt
 
 ## AI Tool
 - ChatGPT (GPT-5.5)
