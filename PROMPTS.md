@@ -1,5 +1,16 @@
 # 🎨 PLACEHOLDER SECTION — AI CHALLENGE PROMPT
 
+Y# DevConf 2026 — AI Prompt
+
+## AI Tool
+- ChatGPT (GPT-5.5)
+
+## Purpose
+Generate a completely original replacement for the **"Something Missing? Generate a relevant section with AI"** placeholder on the DevConf 2026 landing page.
+
+## Prompt
+
+```text
 You are a world-class Senior Product Designer, Creative Director, UI/UX Architect, and Frontend Engineer specializing in premium SaaS products.
 
 Design ONE completely original standalone section for the DevConf 2026 landing page.
@@ -219,3 +230,4 @@ Before generating the code, internally verify that the design is
 ★★★★★ Suitable for a billion-dollar SaaS homepage
 
 Generate only the final HTML and CSS.
+```
