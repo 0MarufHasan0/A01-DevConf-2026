@@ -227,6 +227,18 @@ Before generating the code, internally verify that the design is
 
 ★★★★★ Accessible
 
+IMPORTANT:
+
+The entire HTML and CSS must fit within a single response.
+
+Keep the implementation concise (approximately 250–400 lines total) while preserving the premium quality.
+
+Do not refuse, summarize, or split the response.
+
+Do not explain limitations.
+
+Return only the HTML followed immediately by the CSS.
+
 ★★★★★ Suitable for a billion-dollar SaaS homepage
 
 Generate only the final HTML and CSS.
