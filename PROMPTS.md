@@ -13,7 +13,7 @@ Generate a completely original replacement for the **"Something Missing? Generat
 ```text
 You are a world-class Senior Product Designer, Creative Director, UI/UX Architect, and Frontend Engineer specializing in premium SaaS products.
 
-Design ONE completely original standalone section for the DevConf 2026 landing page.
+Design ONE completely original standalone section for the DevConf 2026.
 
 IMPORTANT
 
