@@ -11,28 +11,50 @@ Generate a completely original replacement for the **"Something Missing? Generat
 ## Prompt
 
 ```text
-You are a world-class Senior Product Designer, Creative Director, UI/UX Architect, and Frontend Engineer specializing in premium SaaS products.
+You are a Senior Product Designer, UI/UX Designer, Creative Director, and Frontend Engineer specializing in premium web experiences.
 
-Design ONE completely original standalone section for the DevConf 2026.
+Your task is to design ONE completely original standalone section for the DevConf 2026 website.
 
-IMPORTANT
+This section will replace the placeholder:
 
-• Generate ONE section only.
-• Do NOT generate a full landing page.
-• Do NOT generate a hero section, navbar, footer, or any other page sections.
-• This section replaces the AI Placeholder.
-• The output must integrate seamlessly into an existing website.
+"Something Missing? Generate a relevant section with AI"
+
+IMPORTANT RULES
+
+• Create ONE standalone section only.
+• Do NOT create a full landing page.
+• Do NOT create navbar, hero section, footer, or any other sections.
+• The output must be a single independent section that can be inserted into an existing DevConf 2026 website.
+• The section must be original, creative, and relevant to the DevConf 2026 theme.
+• The concept should feel like a real improvement to the conference experience.
+
+The section idea can be inspired by:
+• Developer community
+• Speakers
+• Workshops
+• Hackathons
+• Networking
+• Career opportunities
+• Developer resources
+• Conference highlights
+• Sponsors
+• Venue experience
+• Any other creative DevConf-related concept
+
+Avoid creating a generic website section. Prioritize creativity and relevance to DevConf over common SaaS patterns.
+
+The section should feel like a natural part of the DevConf 2026 website, matching the conference theme, audience, and overall experience.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-TECH
+TECH REQUIREMENTS
 
-Use only
+Use only:
 
 • HTML5
 • CSS3
 
-Do NOT use
+Do NOT use:
 
 • JavaScript
 • Bootstrap
@@ -48,24 +70,19 @@ Do NOT use
 
 ━━━━━━━━━━━━━━━━━━━━
 
-OUTPUT
+OUTPUT FORMAT
 
-Return ONLY
+Return only:
 
-1. HTML for this section
+1. HTML code for this section
+2. CSS code for this section
 
-2. CSS for this section
-
-Do NOT include
+Do NOT include:
 
 • Markdown
 • Explanations
-• Comments
+• Comments inside code
 • JavaScript
-• Placeholder comments
-
-Do NOT generate
-
 • Full HTML document
 • <html>
 • <head>
@@ -73,173 +90,134 @@ Do NOT generate
 • <style>
 • <script>
 
-Do NOT use global CSS selectors
-
-• :root
-• html
-• body
-• *
-
-Use only unique, section-scoped class names.
+Use only unique section-scoped class names.
 
 Do not style anything outside this section.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-CONTENT
+DESIGN DIRECTION
 
-Design a premium "DevConf 2026 Insider Community" section.
+Create a premium, modern, developer-focused interface.
 
-Naturally include
+The design should feel:
 
-• Editorial headline
-• Supporting copy
-• Email subscription form
-• Primary CTA
-• Social proof
-• Developer-focused insights
-• A premium product-style interface
-
-Rewrite all text naturally.
-
-Do not use placeholder text.
-
-━━━━━━━━━━━━━━━━━━━━
-
-DESIGN STYLE
-
-Inspired by the design philosophy—not the layouts—of premium SaaS products like Stripe, Linear, Vercel, Framer, Notion, and Raycast.
-
-The interface should feel
-
-• Premium
-• Editorial
+• Creative
 • Elegant
 • Minimal
-• Modern
-• Developer-focused
+• Professional
 • Sophisticated
-• Expensive
 • Memorable
+• High-quality
+
+Take inspiration from premium digital products like Stripe, Linear, Vercel, Framer, Notion, and Raycast.
+
+Do not copy their layouts. Use their design philosophy only.
 
 ━━━━━━━━━━━━━━━━━━━━
 
 VISUAL SYSTEM
 
-Use
+Use:
 
 • White background
-• Blue accent (#2563EB)
-• Soft neutral grays
+• Blue accent color (#2563EB)
+• Soft neutral gray tones
 • Large rounded corners
 • Thin borders
-• Layered shadows
+• Layered soft shadows
 • Very subtle gradients
 • Strong typography
 • Excellent spacing
-• Refined alignment
 • Clear visual hierarchy
 
 ━━━━━━━━━━━━━━━━━━━━
 
-LAYOUT
+LAYOUT REQUIREMENTS
 
-Create an intentionally asymmetrical composition.
+Create a unique composition.
 
-Avoid equal-width columns.
+Avoid:
 
-One side should communicate the story.
-
-The other side should feel like a real internal SaaS product interface.
-
-Guide the eye naturally using spacing, scale, rhythm, alignment, layering, and elevation.
-
-━━━━━━━━━━━━━━━━━━━━
-
-PRODUCT THINKING
-
-Design a real product experience—not a decorative mockup.
-
-Avoid predictable layouts.
-
-Every block should have a clear purpose.
-
-Create hierarchy through typography, spacing, contrast, proportion, and elevation.
-
-━━━━━━━━━━━━━━━━━━━━
-
-MICRO INTERACTIONS
-
-Use refined CSS-only hover and focus effects.
-
-Animations should feel calm, subtle, and premium.
-
-Never exaggerated.
-
-━━━━━━━━━━━━━━━━━━━━
-
-ORIGINALITY
-
-Do NOT generate
-
-• Hero clones
+• Generic card grids
+• Basic two-column layouts
 • Newsletter templates
-• Generic dashboards
-• Feature grids
-• Pricing sections
-• Cookie-cutter SaaS layouts
-• Repetitive cards
-• Dribbble-style UI
+• Feature sections
+• Pricing-style layouts
+• Common AI-generated designs
 
-Invent your own composition.
+Use:
 
-Use varied proportions, card sizes, spacing, elevation, and alignment.
+• Interesting proportions
+• Asymmetrical balance
+• Layered structure
+• Strong spacing rhythm
+• Clear content hierarchy
 
-The design should feel handcrafted and unique.
-
-━━━━━━━━━━━━━━━━━━━━
-
-ENGINEERING
-
-Write clean, semantic, accessible, responsive, production-ready HTML and CSS.
-
-Use logical class names.
-
-Keep the CSS reusable and maintainable.
-
-Avoid unnecessary code repetition.
+The section should feel handcrafted and thoughtfully designed.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-QUALITY CHECK
+CONTENT REQUIREMENTS
 
-Before generating the code, internally verify that the design is
+Include naturally:
 
-★★★★★ Original
+• Strong editorial headline
+• Supporting description
+• Clear CTA
+• Developer-focused information
+• Meaningful user value
+• DevConf-related content
 
-★★★★★ Premium
+All text must be realistic and professionally written.
 
-★★★★★ Production-ready
+Do not use placeholder text.
 
-★★★★★ Responsive
+━━━━━━━━━━━━━━━━━━━━
 
-★★★★★ Well-balanced
+INTERACTION & ANIMATION RULES
 
-★★★★★ Accessible
+Use only subtle CSS interactions.
 
-IMPORTANT:
+Allowed:
 
-The entire HTML and CSS must fit within a single response.
+• Smooth hover transitions
+• Small elevation changes
+• Gentle color transitions
+• Focus states
 
-Keep the implementation concise (approximately 250–400 lines total) while preserving the premium quality.
+Avoid:
 
-Do not refuse, summarize, or split the response.
+• Heavy animations
+• Complex keyframes
+• Continuous motion
+• Floating effects
+• Bouncing effects
+• Excessive glowing effects
+• Distracting animations
 
-Do not explain limitations.
+Animations should feel calm, premium, and performance-friendly.
 
-Return only the HTML followed immediately by the CSS.
+━━━━━━━━━━━━━━━━━━━━
 
-★★★★★ Suitable for a billion-dollar SaaS homepage
+ENGINEERING QUALITY
 
-Generate only the final HTML and CSS.
+Write:
+
+• Semantic HTML5
+• Clean CSS3
+• Maintainable class naming
+• Responsive structure
+• Accessible markup
+
+Before generating, verify:
+
+✓ Original section idea  
+✓ Strong DevConf relevance  
+✓ Premium visual quality  
+✓ Clean production-ready code  
+✓ Good UX hierarchy  
+✓ Not a generic AI layout  
+
+Return only the final HTML and CSS.
 ```
